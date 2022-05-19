@@ -39,10 +39,12 @@ replace laggedGDPpc=laggedGDPpc/1000
 *region data variable is called GroupCode and contrust region dummies
 encode GroupCode, gen(regiondummy)
 
-*merge population data
-merge m:1 city using pop.dta
+*merge population data and re-scale population in millions
+merge m:1 city using "D:\Research\WEBS\city population data.dta"
 drop if _merge==2
 drop _merge
+
+gen pop_m=pop/1000000
 
 
 *To construct age, based on the var b5 Year Establishment Began Operations
@@ -53,11 +55,11 @@ replace age=0 if age==-1
 
 
 *size controls
-gen medium=0
-replace medium=1 if size==2
+gen medium_firm=0
+replace medium_firm=1 if size==2
 
-gen large=0
-replace large=1 if size==3
+gen large_firm=0
+replace large_firm=1 if size==3
 ***************Independent Variables***************
 
 
