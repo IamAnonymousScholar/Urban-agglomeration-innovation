@@ -1,0 +1,37 @@
+fid,wb_name,countryname,city,large,nl_average,innov_index
+29,"Congo, Democratic Republic of","Congo, Dem. Rep.",Kinshasa,1,2.1543195,0.86503065
+8,China,China,Wuhan,1,16.910301,2.5333333
+122,Myanmar,Myanmar,Yangon,1,20.596933,0.59958506
+133,Colombia,Colombia,Bogota,1,21.667709,1.5644956
+7,India,India,Hyderabad,1,27.804695,1.8544776
+8,China,China,Nanjing,1,29.566662,1.5918367
+4,Peru,Peru,Lima,1,29.569408,1.7627451
+8,China,China,Hangzhou,1,30.048483,2.2666667
+8,China,China,Chengdu,1,30.841398,1.0588236
+53,Vietnam,Vietnam,Ho Chi Minh City,1,30.936289,0.78289473
+63,Turkey,Turkey,Istanbul,1,30.992603,0.2992126
+156,"Egypt, Arab Republic of",Egypt,Cairo,1,31.033913,0.32100707
+8,China,China,Beijing,1,31.488813,1.5
+156,"Egypt, Arab Republic of",Egypt,Alexandria,1,32.471104,0.45967743
+16,Pakistan,Pakistan,Lahore,1,37.564926,0.72727275
+151,Mexico,Mexico,Mexico City,1,39.065186,1.4358975
+7,India,India,Surat,1,39.897125,0.546875
+8,China,China,Guangzhou,1,41.428791,2.2714286
+96,Nigeria,Nigeria,Lagos,1,42.686459,1.2749004
+45,Russian Federation,Russia,Moscow,1,42.7416,0.71387285
+7,India,India,Bangalore,1,43.764549,1.9681978
+7,India,India,Delhi,1,44.058243,2.0264766
+53,Vietnam,Vietnam,Hanoi,1,46.296089,1.4095238
+123,Bangladesh,Bangladesh,Chittagong,1,51.374428,1.3886011
+8,China,China,Shanghai,1,52.145653,1.6666666
+123,Bangladesh,Bangladesh,Dhaka,1,53.475327,1.0426929
+45,Russian Federation,Russia,City of St. Petersburg,1,54.350285,0.62204725
+8,China,China,Shenzhen,1,54.664608,1.8095238
+106,Thailand,Thailand,Bangkok,1,54.714058,0.018939395
+7,India,India,Mumbai,1,58.202717,0.50555557
+8,China,China,Dongguan,1,58.521202,0.42307693
+168,Philippines,Philippines,Manila,1,58.534714,1.1563169
+7,India,India,Chennai,1,58.892025,2.2737226
+5,Argentina,Argentina,Buenos Aires,1,60.669411,1.5159818
+0,Indonesia,Indonesia,Jakarta,1,61.692715,0.51176471
+7,India,India,Ahmadabad,1,62.09,0.40769231

@@ -1,0 +1,165 @@
+fid,wb_name,countryname,city,nl_average,innov_index
+60,Albania,Albania,Tirana,59.051895,0.22513089
+5,Argentina,Argentina,Buenos Aires,60.669411,1.5159818
+67,Armenia,Armenia,Erevan,49.22633,0.36956522
+61,Azerbaijan,Azerbaijan,Baku,32.184551,0.32957748
+123,Bangladesh,Bangladesh,Chittagong,51.374428,1.3886011
+32,Belarus,Belarus,Minsk,26.311047,1.0751879
+97,Benin,Benin,Cotonou,52.450981,0.47999999
+3,Bolivia,Bolivia,Santa Cruz de La Sierra,20.931597,1.433121
+127,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,15.356242,1.4850746
+105,Bulgaria,Bulgaria,Sofia,27.382175,0.66666669
+120,Burundi,Burundi,Bujumbura,28.108696,1.6931819
+54,Cambodia,Cambodia,Phnom Penh,33.684444,1.0487804
+141,Cameroon,Cameroon,Douala,18.160591,0.54014599
+82,Central African Republic,Centralafricanrepublic,Bangui,12.651376,1.5342466
+110,Chad,Chad,NDjamena,24.895397,0.65693432
+2,Chile,Chile,Santiago,24.12241,1.5021645
+8,China,China,Beijing,31.488813,1.5
+133,Colombia,Colombia,Bogota,21.667709,1.5644956
+29,"Congo, Democratic Republic of","Congo, Dem. Rep.",Kinshasa,2.1543195,0.86503065
+26,Costa Rica,Costarica,San Jose,59,1.6
+99,Croatia,Croatia,Zagreb,46.784378,0.9194631
+46,Czech Republic,Czech Republic,Prague,56.860825,1
+92,CÃ´te d'Ivoire,Côte d'Ivoire,Abidjan,45.607681,0.63265306
+109,Dominican Republic,DominicanRepublic,Santo Domingo,62.220184,0.65384614
+132,Ecuador,Ecuador,Guayaquil,18.910509,1.4237288
+156,"Egypt, Arab Republic of",Egypt,Alexandria,32.471104,0.45967743
+112,El Salvador,ElSalvador,San Salvador,57.209114,1.02
+48,Estonia,Estonia,Tallinn,60.552032,0.86614174
+12,Ethiopia,Ethiopia,Addis Ababa,38.02589,0.95137423
+160,"Gambia, The",Gambia,Kanifing,28.719513,0.80882353
+58,Georgia,Georgia,Tbilisi,51.68232,0.66894197
+146,Ghana,Ghana,Accra,60.664635,1.4609929
+77,Greece,Greece,Athens,60.399597,0.53571427
+113,Guatemala,Guatemala,Guatemala City,53.096951,1.4289618
+80,Guinea,Guinea,Conakry,20.528942,0.43589744
+131,Honduras,Honduras,Tegucigalpa,14.169705,1.004717
+72,Hungary,Hungary,Budapest,59.877617,0.43930635
+7,India,India,Ahmadabad,62.09,0.40769231
+0,Indonesia,Indonesia,Bandung,55.758793,1.0294118
+138,Jordan,Jordan,Amman,59.082645,0.4861111
+39,Kazakhstan,Kazakhstan,Almaty,60.132545,0.62385321
+15,Kenya,Kenya,Kisumu,9.4054956,1.385621
+66,Kyrgyz Republic,Kyrgyz Republic,Bishkek,53.631889,1.0428015
+65,Lao People's Democratic Republic,LaoPDR,Vientiane,10.738538,0.50378788
+49,Latvia,Latvia,Riga,18.217945,0.82868528
+11,Lebanon,Lebanon,Beirut,62.74176,0.72027969
+81,Liberia,Liberia,Monrovia,15.46875,1
+41,Lithuania,Lithuania,Vilniaus,14.631559,0.60240966
+17,Malawi,Malawi,Lilongwe City,22.724272,1.5921788
+1,Malaysia,Malaysia,Kuala Lumpur,62.996857,1.1153846
+94,Mali,Mali,Bamako,50.694916,1.1206896
+158,Mauritania,Mauritania,Nouakchott,8.1332607,1.6860465
+151,Mexico,Mexico,Leon,30.261827,1.2204725
+44,Mongolia,Mongolia,Ulan Bator,8.2716484,1.1037464
+25,Morocco,Morocco,Casablanca,46.407166,0.54166669
+118,Mozambique,Mozambique,Maputo,38.107063,0.62814069
+122,Myanmar,Myanmar,Mandalay,8.5097752,0.49350649
+33,Namibia,Namibia,Windhoek,15.546219,1.6224489
+139,Nepal,Nepal,Kathmandu,53.338711,1.4527028
+27,Nicaragua,Nicaragua,Managua,26.686468,1.2952381
+143,Niger,Niger,Niamey,26.294846,0.7096774
+96,Nigeria,Nigeria,Ibadan,9.9031582,1.79
+59,North Macedonia,North Macedonia,Skopje,39.69722,0.79146922
+16,Pakistan,Pakistan,Faisalabad,15.54031,0.05882353
+153,Panama,Panama,Panama City,12.486618,0.33333334
+134,Paraguay,Paraguay,Asuncion,59.143044,1.3876652
+4,Peru,Peru,Arequipa,25.022243,1.1948051
+168,Philippines,Philippines,Cebu City,22.280802,1.0754716
+74,Poland,Poland,Krakov,57.694397,0.07692308
+135,Portugal,Portugal,Lisbon,63,0.66666669
+71,Romania,Romania,Bucharest,62.397152,0.91052634
+45,Russian Federation,Russia,City of St. Petersburg,54.350285,0.62204725
+121,Rwanda,Rwanda,Kigali,9.5807962,1.7662338
+95,Senegal,Senegal,Dakar,60.563107,1.3107345
+93,Serbia,Serbia,Belgrade,29.447231,1.0897436
+79,Sierra Leone,SierraLeone,Freetown,22.42268,0.64150941
+73,Slovak Republic,Slovak Republic,Bratislava,46.922581,0.3935484
+100,Slovenia,Slovenia,Ljubljana,36.331959,1.264151
+13,South Sudan,Southsudan,Juba,0.26748174,1.1454082
+83,Sudan,Sudan,Khartoum,58.09137,1.130137
+40,Tajikistan,Tajikistan,Dushanbe,51.906071,0.42857143
+18,Tanzania,Tanzania,Arusha,10.424438,1.6753247
+106,Thailand,Thailand,Bangkok,54.714058,0.018939395
+145,Togo,Togo,Lome,38.397758,0.80000001
+70,Tunisia,Tunisia,Tunis,55.29306,0.8359375
+63,Turkey,Turkey,Ankara,36.596344,0.29577464
+128,Uganda,Uganda,Kampala,51.557144,1.7311475
+31,Ukraine,Ukraine,Kharkiv,58.110989,0.57943922
+43,Uruguay,Uruguay,Montevideo,47.416546,1.540724
+38,Uzbekistan,Uzbekistan,Samarqand,16.384001,0.71428573
+154,"Venezuela, Republica Bolivariana de",Venezuela,Caracas,1.1682233,1.6
+53,Vietnam,Vietnam,Da Nang,40.533333,1.6984127
+10,West Bank and Gaza,West Bank And Gaza,Gaza,47.495724,0.22047244
+157,"Yemen, Republic of",Yemen,Aden,40.504864,0.6785714
+78,Zambia,Zambia,Lusaka,46.645081,1.0733334
+104,Zimbabwe,Zimbabwe,Harare,32.628681,1.556797
+5,Argentina,Argentina,Cordoba,51.687622,1.4907408
+123,Bangladesh,Bangladesh,Dhaka,53.475327,1.0426929
+123,Bangladesh,Bangladesh,Gazipur,26.211506,1.3333334
+123,Bangladesh,Bangladesh,Khulna,31.783504,0.65384614
+141,Cameroon,Cameroon,Yaounde,42.101334,0.70072991
+8,China,China,Chengdu,30.841398,1.0588236
+8,China,China,Dongguan,58.521202,0.42307693
+8,China,China,Guangzhou,41.428791,2.2714286
+8,China,China,Hangzhou,30.048483,2.2666667
+8,China,China,Nanjing,29.566662,1.5918367
+8,China,China,Shanghai,52.145653,1.6666666
+8,China,China,Shenzhen,54.664608,1.8095238
+8,China,China,Wuhan,16.910301,2.5333333
+133,Colombia,Colombia,Medellin,39.254227,1.8112583
+133,Colombia,Colombia,Santiago de Cali,31.588469,1.6341463
+29,"Congo, Democratic Republic of","Congo, Dem. Rep.",Lubumbashi,14.602249,1.3888888
+29,"Congo, Democratic Republic of","Congo, Dem. Rep.",Mbuji-Mayi,7.9808917,1.0243902
+156,"Egypt, Arab Republic of",Egypt,Cairo,31.033913,0.32100707
+156,"Egypt, Arab Republic of",Egypt,Giza,60.657711,0.36399218
+156,"Egypt, Arab Republic of",Egypt,Port Said,13.873288,0.21951219
+156,"Egypt, Arab Republic of",Egypt,Shubra El Kheima,63,0.39622641
+146,Ghana,Ghana,Kumasi,48.226299,1.6629213
+7,India,India,Bangalore,43.764549,1.9681978
+7,India,India,Chennai,58.892025,2.2737226
+7,India,India,Delhi,44.058243,2.0264766
+7,India,India,Hyderabad,27.804695,1.8544776
+7,India,India,Jaipur,33.358006,2.0231214
+7,India,India,Kanpur,20.3372,0.44827586
+7,India,India,Kolkata,63,1.0842912
+7,India,India,Lucknow,34.38863,0.89473683
+7,India,India,Mumbai,58.202717,0.50555557
+7,India,India,Pune,26.535599,0.54385966
+7,India,India,Surat,39.897125,0.546875
+0,Indonesia,Indonesia,Jakarta,61.692715,0.51176471
+0,Indonesia,Indonesia,Medan,55.154079,0.3018868
+0,Indonesia,Indonesia,Surabaya,58.340103,0.15384616
+0,Indonesia,Indonesia,Tangerang,60.522934,0.59574467
+15,Kenya,Kenya,Mombasa,35.681808,1.3571428
+15,Kenya,Kenya,Nairobi,42.752743,1.4954545
+151,Mexico,Mexico,Mexico City,39.065186,1.4358975
+151,Mexico,Mexico,Puebla,26.771725,1.6315789
+25,Morocco,Morocco,Fez,19.944525,0.15151516
+118,Mozambique,Mozambique,Nampula,6.6689372,0.76119405
+122,Myanmar,Myanmar,Yangon,20.596933,0.59958506
+139,Nepal,Nepal,Pokhara,11.813334,1.1818181
+96,Nigeria,Nigeria,Kaduna,47.471264,1.7540984
+96,Nigeria,Nigeria,Lagos,42.686459,1.2749004
+16,Pakistan,Pakistan,Gujranwala,12.386063,0.86153847
+16,Pakistan,Pakistan,Islamabad-Rawalpindi,16.627062,1
+16,Pakistan,Pakistan,Lahore,37.564926,0.72727275
+4,Peru,Peru,Lima,29.569408,1.7627451
+168,Philippines,Philippines,Manila,58.534714,1.1563169
+74,Poland,Poland,Warsaw,61.063633,0.65467626
+45,Russian Federation,Russia,Kazan,16.323092,0.40579709
+45,Russian Federation,Russia,Moscow,42.7416,0.71387285
+45,Russian Federation,Russia,Novosibirsk,26.335342,0.32386363
+45,Russian Federation,Russia,Yekaterinburg,41.737301,0.69483566
+83,Sudan,Sudan,Omdurman,14.156267,1
+18,Tanzania,Tanzania,Dar es Salaam,16.802393,1.4289855
+18,Tanzania,Tanzania,Mwanza,8.7064581,1.0909091
+63,Turkey,Turkey,Istanbul,30.992603,0.2992126
+63,Turkey,Turkey,Izmir,39.744858,0.27173913
+128,Uganda,Uganda,Kira,24.39823,1.9841269
+31,Ukraine,Ukraine,Kyiv,52.004482,0.54570639
+38,Uzbekistan,Uzbekistan,Tashkent,58.977001,0.34323433
+53,Vietnam,Vietnam,Hanoi,46.296089,1.4095238
+53,Vietnam,Vietnam,Ho Chi Minh City,30.936289,0.78289473
+157,"Yemen, Republic of",Yemen,Sanaa,34.100338,0.65648854

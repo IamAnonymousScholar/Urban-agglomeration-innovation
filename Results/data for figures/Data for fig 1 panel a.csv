@@ -1,0 +1,99 @@
+fid,wb_name,countryname,total_pop,num_city_include
+60,Albania,Albania,2854191,1
+5,Argentina,Argentina,44938712,2
+67,Armenia,Armenia,2957731,1
+61,Azerbaijan,Azerbaijan,10023318,1
+123,Bangladesh,Bangladesh,163046161,5
+32,Belarus,Belarus,9466856,1
+97,Benin,Benin,11801151,1
+3,Bolivia,Bolivia,11513100,1
+127,Bosnia and Herzegovina,Bosnia and Herzegovina,3301000,1
+105,Bulgaria,Bulgaria,6975761,1
+120,Burundi,Burundi,11530580,1
+54,Cambodia,Cambodia,16486542,1
+141,Cameroon,Cameroon,25876380,2
+82,Central African Republic,Centralafricanrepublic,4745185,1
+110,Chad,Chad,15946876,1
+2,Chile,Chile,18952038,1
+233,"Macau (SAR, China)",China,1397715000,12
+8,China,China,1397715000,12
+161,"Hong Kong (SAR, China)",China,1397715000,12
+133,Colombia,Colombia,50339443,3
+29,"Congo, Democratic Republic of","Congo, Dem. Rep.",86790567,3
+26,Costa Rica,Costarica,5047561,1
+99,Croatia,Croatia,4067500,1
+46,Czech Republic,Czech Republic,10669709,1
+92,CÃ´te d'Ivoire,Côte d'Ivoire,25716544,2
+109,Dominican Republic,DominicanRepublic,10738958,1
+132,Ecuador,Ecuador,17373662,1
+156,"Egypt, Arab Republic of",Egypt,100388073,5
+112,El Salvador,ElSalvador,6453553,1
+48,Estonia,Estonia,1326590,1
+12,Ethiopia,Ethiopia,112078730,5
+160,"Gambia, The",Gambia,2347706,1
+58,Georgia,Georgia,3720382,1
+146,Ghana,Ghana,30417856,2
+77,Greece,Greece,10716322,1
+113,Guatemala,Guatemala,16604026,1
+80,Guinea,Guinea,12771246,1
+131,Honduras,Honduras,9746117,1
+72,Hungary,Hungary,9769949,1
+7,India,India,1366417754,12
+0,Indonesia,Indonesia,270625568,6
+138,Jordan,Jordan,10101694,1
+39,Kazakhstan,Kazakhstan,18513930,1
+15,Kenya,Kenya,52573973,3
+66,Kyrgyz Republic,Kyrgyz Republic,6456900,1
+65,Lao People's Democratic Republic,LaoPDR,7169455,1
+49,Latvia,Latvia,1912789,1
+11,Lebanon,Lebanon,6855713,1
+81,Liberia,Liberia,4937374,1
+41,Lithuania,Lithuania,2786844,1
+17,Malawi,Malawi,18628747,1
+1,Malaysia,Malaysia,31949777,2
+94,Mali,Mali,19658031,1
+158,Mauritania,Mauritania,4525696,1
+151,Mexico,Mexico,127575529,5
+44,Mongolia,Mongolia,3225167,1
+25,Morocco,Morocco,36471769,2
+118,Mozambique,Mozambique,30366036,2
+122,Myanmar,Myanmar,54045420,3
+33,Namibia,Namibia,2494530,1
+139,Nepal,Nepal,28608710,2
+27,Nicaragua,Nicaragua,6545502,1
+143,Niger,Niger,23310715,2
+96,Nigeria,Nigeria,200963599,6
+59,North Macedonia,North Macedonia,2083459,1
+16,Pakistan,Pakistan,216565318,6
+153,Panama,Panama,4246439,1
+134,Paraguay,Paraguay,7044636,1
+4,Peru,Peru,32510453,2
+168,Philippines,Philippines,108116615,5
+74,Poland,Poland,37970874,2
+135,Portugal,Portugal,10269417,1
+71,Romania,Romania,19356544,1
+45,Russian Federation,Russia,144373535,5
+121,Rwanda,Rwanda,12626950,1
+95,Senegal,Senegal,16296364,1
+93,Serbia,Serbia,6944975,1
+79,Sierra Leone,SierraLeone,7813215,1
+73,Slovak Republic,Slovak Republic,5454073,1
+100,Slovenia,Slovenia,2087946,1
+13,South Sudan,Southsudan,11062113,1
+83,Sudan,Sudan,42813238,2
+40,Tajikistan,Tajikistan,9321018,1
+18,Tanzania,Tanzania,58005463,3
+106,Thailand,Thailand,69625582,3
+145,Togo,Togo,8082366,1
+70,Tunisia,Tunisia,11694719,1
+63,Turkey,Turkey,83429615,3
+128,Uganda,Uganda,44269594,2
+31,Ukraine,Ukraine,44385155,2
+43,Uruguay,Uruguay,3461734,1
+38,Uzbekistan,Uzbekistan,33580650,2
+154,"Venezuela, Republica Bolivariana de",Venezuela,28515829,2
+53,Vietnam,Vietnam,96462106,3
+10,West Bank and Gaza,West Bank And Gaza,4685306,1
+157,"Yemen, Republic of",Yemen,29161922,2
+78,Zambia,Zambia,17861030,1
+104,Zimbabwe,Zimbabwe,14645468,1
